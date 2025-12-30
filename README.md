@@ -1,6 +1,8 @@
 minimal application that allows users to create text pastes and share a link to view them.
 Pastes can optionally expire based on time-to-live (TTL) or a maximum number of views.
 
+Deployed Link: https://pastebin-three-lake.vercel.app
+
 **Features**
 
 - Create a paste containing arbitrary text
